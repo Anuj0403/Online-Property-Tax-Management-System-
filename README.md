@@ -3,7 +3,7 @@
 
 # To run web app do the following things:
 
-1. Run the npm start command and run on local host
+1. Run the npm start command 
 
 
 2. Login in the admin by the credentials
